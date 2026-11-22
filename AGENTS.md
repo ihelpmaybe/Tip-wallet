@@ -7,9 +7,10 @@ You are helping **ihelpmaybe** and contributor **[@togosh](https://github.com/to
 Program rules: https://github.com/ihelpmaybe/pulse-trezor/blob/main/BUILD-EFFICIENCY.md  
 
 **Do:** one TODO item → thin slice → tick box → stop.  
-**Don’t:** replan E2E, rebuild Tip in Desk, fork Suite for users, copy token lists, reread every markdown every turn.  
+**Don’t:** replan E2E, rebuild Tip in Desk, fork Suite for users, copy token lists, reread every markdown every turn, start **BONUS** before Gate 1–2.  
 **Shared packs** (tokens/RPC/registry) → `pulse-trezor-platform`.  
-**Parallel AI:** different TODO rows only.
+**Parallel AI:** different TODO rows only.  
+**Other wallets:** Tip + Trezor + WC only; Ledger/Safe/AA = BONUS research on platform.
 
 ## Load order (cheap)
 
@@ -36,4 +37,4 @@ Skip END-TO-END / ROADMAP / ADOPTION unless the task is planning.
 
 ## This repo
 
-Tip-wallet = Pulse Android soft wallet. Consume platform SYNC packs; don't invent parallel lists.
+Tip soft wallet. BONUS after Android+SYNC; no multi-chain cloud.

@@ -6,6 +6,34 @@ Program: [pulse-trezor ROADMAP § TIP](https://github.com/ihelpmaybe/pulse-trezo
 
 Hardware wallets are **Desk’s job** until TIP2.
 
+Program tests: [TESTING.md](https://github.com/ihelpmaybe/pulse-trezor/blob/main/TESTING.md)
+
+## TEST — Tip (smoke / fuzz / pen / full)
+
+### Smoke
+- [ ] Fresh install + update-over-install (no wipe)
+- [ ] Create / restore wallet
+- [ ] Receive + send once (testnet preferred)
+- [ ] PulseX quote → swap once
+- [ ] EIP-681 opens with correct chain/amount
+
+### Fuzz
+- [ ] Malformed EIP-681 / QR / deep links
+- [ ] Bad amounts, tokens, RPC errors
+- [ ] Registry import fuzz (SYNC); reject seed-like fields
+- [ ] CI time-boxed fuzz job
+
+### Pen
+- [ ] Seed never in logs/analytics/AI prompts
+- [ ] Backup verify flow; clipboard hygiene
+- [ ] Sideload APK checksum published
+- [ ] Clear-sign PulseChain (not ETH mislabel)
+- [ ] Pen report before Play/sideload “stable” tag
+
+### Full bar
+- [ ] Android × Graphene × release channel matrix
+- [ ] Gate T green before ACCEPTANCE Gate 2
+
 ## TIP0 — Source of truth
 - [ ] Locate full Tip app source on disk / private remote
 - [ ] Decide: keep this repo face-only **or** push app code here

@@ -74,6 +74,12 @@ Program tests: [TESTING.md](https://github.com/ihelpmaybe/pulse-trezor/blob/main
 - [ ] Explain EIP-681 / QR before pay (AI3)
 - [ ] MPC recovery opt-in when platform MPC2 lands — never default silent
 
+## TIP6 — Adoption
+- [ ] Shareable “Pay me on Pulse” / EIP-681 profile link
+- [ ] Creator tip-kit entry (see ADOPTION.md)
+- [ ] Graphene / Obtainium install one-pager link in-app
+- [ ] Keep Pulse-first identity (don’t dilute into multi-chain cloud)
+
 ## Already true (don’t regress)
 - [x] PulseChain-first (not multi-chain cloud)
 - [x] EIP-681 scan / pay

@@ -2,39 +2,37 @@
 
 You are helping **ihelpmaybe** and contributor **[@togosh](https://github.com/togosh)** on the PulseChain ↔ Trezor program.
 
-## Efficiency
+## Where to build (ranked)
 
-Program rules: https://github.com/ihelpmaybe/pulse-trezor/blob/main/BUILD-EFFICIENCY.md  
+1. Open https://github.com/ihelpmaybe/pulse-trezor/blob/main/PRIORITY.md  
+2. Take the **lowest unchecked #** you can own  
+3. Say `Taking PRIORITY #N …`  
+4. Work that row’s **repo** + **TODO id** only  
+5. Tick PRIORITY + local TODO → stop  
 
-**Do:** one TODO item → thin slice → tick box → stop.  
-**Don’t:** replan E2E, rebuild Tip in Desk, fork Suite for users, copy token lists, reread every markdown every turn, start **BONUS** before Gate 1–2.  
-**Shared packs** (tokens/RPC/registry) → `pulse-trezor-platform`.  
-**Parallel AI:** different TODO rows only.  
-**Other wallets:** Tip + Trezor + WC only; Ledger/Safe/AA = BONUS research on platform.
+Efficiency: https://github.com/ihelpmaybe/pulse-trezor/blob/main/BUILD-EFFICIENCY.md  
+
+**Don’t:** replan E2E, rebuild Tip in Desk, fork Suite, copy token lists, start BONUS before Gate 1–2, grab a PRIORITY # another agent claimed.  
+**Shared packs** → `pulse-trezor-platform`. **Parallel** = different PRIORITY numbers only.
 
 ## Load order (cheap)
 
-1. **[TODO.md](./TODO.md)** — first unchecked ship-order item  
-2. `NOTES.md` here if blocked  
-3. https://github.com/ihelpmaybe/pulse-trezor/blob/main/TESTING.md when testing/claiming done  
-4. https://github.com/ihelpmaybe/pulse-trezor/blob/main/HELPFUL-NOTES.md — search section only  
-
-Skip END-TO-END / ROADMAP / ADOPTION unless the task is planning.
+1. PRIORITY.md (global)  
+2. **[TODO.md](./TODO.md)** for the id you claimed  
+3. `NOTES.md` if blocked  
+4. TESTING.md when claiming done  
 
 ## Rules
 
-- Stay in **this repo’s TODO** unless it points elsewhere.
-- Connect → Bridge → real device/emu for HWW — no pretend HD “Trezor.”
-- Never redistribute Trezor Suite (T-RSL). Desk = shippable Pulse UX.
-- SYNC / Tip↔Desk: watch-only — no seeds in QR/registry.
-- AI never holds keys or signs.
-- Tick TODO when done; attach smoke/fuzz/pen evidence per TESTING.md.
+- Connect → Bridge → device/emu for HWW — no pretend HD.  
+- No Suite redistribute. SYNC = watch-only. AI never signs/holds keys.  
+- Tip + Trezor + WC only; Ledger/Safe/AA = BONUS research on platform.
 
 ## Contributors
 
-- @ihelpmaybe (owner)
-- @togosh (contributor — AI-assisted TODO work welcome)
+- @ihelpmaybe (owner)  
+- @togosh (contributor)
 
 ## This repo
 
-Tip soft wallet. BONUS after Android+SYNC; no multi-chain cloud.
+Claim PRIORITY Tip rows (#7-8, #14, #16).

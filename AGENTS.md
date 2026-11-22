@@ -11,8 +11,10 @@ You are helping **ihelpmaybe** and contributor **[@togosh](https://github.com/to
 5. Tick PRIORITY + local TODO → stop  
 
 Efficiency: https://github.com/ihelpmaybe/pulse-trezor/blob/main/BUILD-EFFICIENCY.md  
+OSS adopt/wrap: https://github.com/ihelpmaybe/pulse-trezor/blob/main/OPEN-SOURCE-INFRA.md  
 
-**Don’t:** replan E2E, rebuild Tip in Desk, fork Suite, copy token lists, start BONUS before Gate 1–2, grab a PRIORITY # another agent claimed.  
+**Don’t:** replan E2E, rebuild Tip in Desk, fork Suite, invent RPC/indexer/AMM, start BONUS before Gate 1–2, grab a PRIORITY # another agent claimed.  
+**Do:** wrap connect-web + viem/wagmi, Tip, tokenlists format, scan/Blockscout API, Reown WC, Foundry, trezor-firmware.  
 **Shared packs** → `pulse-trezor-platform`. **Parallel** = different PRIORITY numbers only.
 
 ## Load order (cheap)
@@ -35,4 +37,4 @@ Efficiency: https://github.com/ihelpmaybe/pulse-trezor/blob/main/BUILD-EFFICIENC
 
 ## This repo
 
-Claim PRIORITY Tip rows (#7-8, #14, #16).
+Keep Tip (Rabby Mobile lineage). Align via SYNC4 — do not build a second soft wallet.

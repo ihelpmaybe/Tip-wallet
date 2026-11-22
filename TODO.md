@@ -92,6 +92,7 @@ Program tests: [TESTING.md](https://github.com/ihelpmaybe/pulse-trezor/blob/main
 ## Already true (don’t regress)
 - [x] PulseChain-first (not multi-chain cloud)
 - [x] EIP-681 scan / pay
-- [x] PulseX swap (Tip fee 0%)
+- [x] PulseX swap (Tip fee 0%) — keep first-class (core app)
+- [ ] ProveX deep link / USDC awareness (core fiat ramp)
 - [x] Self-custody seed on device
 - [x] No HWW / WalletConnect in v1 on purpose

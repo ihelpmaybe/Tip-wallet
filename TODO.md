@@ -10,12 +10,16 @@ Hardware wallets are **Desk’s job** until TIP2.
 - [ ] Locate full Tip app source on disk / private remote
 - [ ] Decide: keep this repo face-only **or** push app code here
 - [ ] Document build / sideload release steps
+- [ ] Versioned APK update channel
 
 ## TIP1 — Align with Desk
 - [ ] Same Pulse RPC defaults (369)
 - [ ] Shared token list starter (HEX, PLSX, INC, …)
 - [ ] Shared safety copy (seed, verify address/amount/chain)
 - [ ] Optional Testnet V4 (943) notes stay in Settings
+- [ ] **Backup verify** (seed check quiz) — soft-wallet E2E
+- [ ] **Address book** (align with Desk)
+- [ ] Fee / stuck-tx UX parity notes with Desk
 
 ## TIP2 — Hardware (later)
 - [ ] Spike Trezor Connect on Android (after Desk A1 proven)

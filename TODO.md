@@ -80,6 +80,15 @@ Program tests: [TESTING.md](https://github.com/ihelpmaybe/pulse-trezor/blob/main
 - [ ] Graphene / Obtainium install one-pager link in-app
 - [ ] Keep Pulse-first identity (don’t dilute into multi-chain cloud)
 
+## BONUS — after Android+SYNC solid
+
+- [ ] Locales after English
+- [ ] Play Store listing polish (screenshots / Pulse-first copy)
+- [ ] MPC recovery **marketing** only after MPC2 works (no vapor)
+- [ ] WalletConnect on Tip (optional; Desk WC is enough longer)
+- [ ] iOS already TIP4 — keep as bonus until Gate 2
+- [ ] **No** multi-chain Tip cloud (explicit non-goal)
+
 ## Already true (don’t regress)
 - [x] PulseChain-first (not multi-chain cloud)
 - [x] EIP-681 scan / pay

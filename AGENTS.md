@@ -11,10 +11,11 @@ You are helping **ihelpmaybe** and contributor **[@togosh](https://github.com/to
 5. Tick PRIORITY + local TODO → stop  
 
 Efficiency: https://github.com/ihelpmaybe/pulse-trezor/blob/main/BUILD-EFFICIENCY.md  
-OSS adopt/wrap: https://github.com/ihelpmaybe/pulse-trezor/blob/main/OPEN-SOURCE-INFRA.md  
+OSS: https://github.com/ihelpmaybe/pulse-trezor/blob/main/OPEN-SOURCE-INFRA.md  
+Core apps: https://github.com/ihelpmaybe/pulse-trezor/blob/main/CORE-APPS.md (**PulseChain · HEX · PulseX · ProveX**)
 
-**Don’t:** replan E2E, rebuild Tip in Desk, fork Suite, invent RPC/indexer/AMM, start BONUS before Gate 1–2, grab a PRIORITY # another agent claimed.  
-**Do:** wrap connect-web + viem/wagmi, Tip, tokenlists format, scan/Blockscout API, Reown WC, Foundry, trezor-firmware.  
+**Don’t:** replan E2E, rebuild Tip, fork Suite, invent AMM, prioritize random DEXes over PulseX, grab a claimed PRIORITY #.  
+**Do:** wrap connect-web + viem/wagmi, Tip, PulseX, ProveX deep links, HEX companion, tokenlists, scan API, Reown WC, Foundry, trezor-firmware.  
 **Shared packs** → `pulse-trezor-platform`. **Parallel** = different PRIORITY numbers only.
 
 ## Load order (cheap)
@@ -37,4 +38,4 @@ OSS adopt/wrap: https://github.com/ihelpmaybe/pulse-trezor/blob/main/OPEN-SOURCE
 
 ## This repo
 
-Keep Tip (Rabby Mobile lineage). Align via SYNC4 — do not build a second soft wallet.
+Tip = soft path for PulseChain, HEX, PulseX, ProveX. Keep PulseX; add ProveX deep link.

@@ -35,10 +35,10 @@ Program tests: [TESTING.md](https://github.com/ihelpmaybe/pulse-trezor/blob/main
 - [ ] Gate T green before ACCEPTANCE Gate 2
 
 ## TIP0 — Source of truth
-- [ ] Locate full Tip app source on disk / private remote
-- [ ] Decide: keep this repo face-only **or** push app code here
-- [ ] Document build / sideload release steps
-- [ ] Versioned APK update channel
+- [x] Locate full Tip app source on disk / private remote — **not on GH; not under pulse-trezor-org** (see [TIP0-source.md](./TIP0-source.md))
+- [x] Decide: keep this repo face-only **for now**; pick A (private app repo) or B (push here) when path known
+- [ ] Document build / sideload release steps — blocked on source
+- [ ] Versioned APK update channel — blocked on source
 
 ## TIP1 — Align with Desk
 - [ ] Same Pulse RPC defaults (369)

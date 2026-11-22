@@ -11,3 +11,7 @@ Full program notes: [HELPFUL-NOTES.md](https://github.com/ihelpmaybe/pulse-trezo
 - SYNC with Desk = watch-only; never put seed in QR/registry
 - Backup verify (seed quiz) is soft-wallet E2E, not optional forever
 - Align RPC/tokens with platform shared pack when SYNC4 exists
+
+## Build queue
+
+Global: https://github.com/ihelpmaybe/pulse-trezor/blob/main/PRIORITY.md

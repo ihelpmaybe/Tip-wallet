@@ -22,15 +22,25 @@ Hardware wallets are **Desk’s job** until TIP2.
 - [ ] Safe 7 / Suite-mobile Connect flow notes
 - [ ] Keep soft-seed path as default; HWW opt-in
 
-## TIP3 — Cross-product
+## TIP3 — Cross-product / mobile↔desktop
 - [ ] Link bunker register (hexican-rescue) when live
 - [ ] Link guides (pulse-trezor-guides)
 - [ ] Same receive-address story as Desk (BIP44 account 0)
+- [ ] Import/export watch-only registry (SYNC1)
+- [ ] QR / deep-link pair with Desk (SYNC2) — no seed transfer
+- [ ] Shared token/RPC pack from `pulse-trezor-platform`
 
-## TIP4 — Distribution
+## TIP4 — Distribution / OS
 - [ ] Sideload channel hygiene (update-over-install warning stays)
+- [ ] **GrapheneOS** install + hardened notes (high ROI)
+- [ ] F-Droid / direct APK channel notes
 - [ ] Play Store path (when ready)
+- [ ] **iOS (Apple)** port — after Android+SYNC solid
 - [ ] English-only → more locales later
+
+## TIP5 — AI / MPC (optional surfaces)
+- [ ] Explain EIP-681 / QR before pay (AI3)
+- [ ] MPC recovery opt-in when platform MPC2 lands — never default silent
 
 ## Already true (don’t regress)
 - [x] PulseChain-first (not multi-chain cloud)
